@@ -2,9 +2,9 @@
 
 ## 🏁 Getting Started
 
-LifeStream is a web-based software solution designed to streamline and manage blood bank operations with efficiency and precision. This system enables seamless tracking of blood deposits, withdrawals, donor profiles, and receiver information.
+**LifeStream** is a web-based software solution designed to streamline and manage blood bank operations with efficiency and precision. This system enables seamless tracking of blood deposits, withdrawals, donor profiles, and receiver information.
 
-Key Features:
+**Key Features:**
 * Comprehensive donor and receiver management
 * Detailed donation and receiving history
 * Real-time blood stock tracking
@@ -13,12 +13,15 @@ Key Features:
 
 ## 📂 Project File Structure
 * database/
+
   Contains the SQL file for setting up the database.
 
 * docs/
+
   Includes documentation related to the project.
 
 * res/
+
   Contains resources like images, fonts, and icons used in the project.
 
 
