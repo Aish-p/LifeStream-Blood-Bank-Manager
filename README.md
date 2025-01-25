@@ -71,3 +71,10 @@ The system's functionalities include:
 * Request Blood: Request blood by specifying the blood group, hospital, and required units.
 * My Profile: View personal details, donation history, and receiving details.
 
+
+## 📊 Diagrams
+### ER Diagram
+![image](https://github.com/user-attachments/assets/91026c96-5462-4690-a7a0-73a3d38c4183)
+
+### Relational Diagram
+![image](https://github.com/user-attachments/assets/871c03b7-2cb4-4e5e-bb2c-39a4288c8845)
