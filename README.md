@@ -1,7 +1,9 @@
 # LifeStream-Blood-Bank-Manager
 
-🏁 Getting Started
+## 🏁 Getting Started
+
 LifeStream is a web-based software solution designed to streamline and manage blood bank operations with efficiency and precision. This system enables seamless tracking of blood deposits, withdrawals, donor profiles, and receiver information.
+
 Key Features:
 * Comprehensive donor and receiver management
 * Detailed donation and receiving history
@@ -9,7 +11,7 @@ Key Features:
 * Robust administrative tools for smooth operations
 
 
-📂 Project File Structure
+## 📂 Project File Structure
 * database/
   Contains the SQL file for setting up the database.
 
@@ -20,37 +22,37 @@ Key Features:
   Contains resources like images, fonts, and icons used in the project.
 
 
-🔧 Installation
-1. Create the Database
+## 🔧 Installation
+### 1. Create the Database
 Set up a new database on your local server named blood_bank.
 
-2. Import the Database
+### 2. Import the Database
 Import the .db file from the database folder into your database.
 
-3. Run the Application
+### 3. Run the Application
 * Place the project folder in the web server's root directory (e.g., htdocs for Apache).
 * Open a browser and navigate to: http://localhost/blood-bank
 
 
-⚙️ Components
-Languages
+## ⚙️ Components
+### Languages
 * PHP
 * CSS
 * SQL
 
-Development Environment
+### Development Environment
 * Windows 10
 
-External Resources/Plugins
+### External Resources/Plugins
 * XAMPP (for local server and MySQL)
 * Visual Studio Code (for development)
 * Google Chrome (for testing)
 
 
-✨ Scope of the Project
+## ✨ Scope of the Project
 The system's functionalities include:
 
-Admin
+### Admin
 * Login: Secure admin login to manage the system.
 * Add Person: Register new donors/receivers.
 * Search Person: Retrieve details of donors/receivers using a unique P_ID or Aadhar number.
@@ -64,7 +66,7 @@ Admin
 * Add User: Create login credentials for donors/receivers.
 * Delete User: Remove user accounts.
 
-User (Donor/Receiver)
+### User (Donor/Receiver)
 * Login: Secure login to access user-specific features.
 * Request Blood: Request blood by specifying the blood group, hospital, and required units.
 * My Profile: View personal details, donation history, and receiving details.
